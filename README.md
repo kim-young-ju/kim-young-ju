@@ -23,9 +23,10 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 
 <a href="https://kim-yj-0308.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=TISTORY&logoColor=white">
-<a href="https://www.instagram.com/970308yj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 <a href="mailto:yjyj0308@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=yjyj0308@naver.com"/></a>
-
+<!--
+<a href="https://www.instagram.com/970308yj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+-->
 
 
 <!Github stats>
